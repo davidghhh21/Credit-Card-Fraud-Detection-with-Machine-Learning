@@ -1,4 +1,4 @@
-# Data-Analysis-Machine-Learning-for-Predictive-Insights
+# Data-Analysis-Machine-Learning-for-Risk-Modelling
 ## Project Overview
 This repository contains the Jupyter Notebook for the COMP1916 assessment project. The notebook includes data analysis, visualizations, and machine learning implementations.
 
