@@ -1,6 +1,13 @@
 # Data-Analysis-Machine-Learning-for-Risk-Modelling
 ## Project Overview
-This repository contains the Jupyter Notebook for the COMP1916 assessment project. The notebook includes data analysis, visualizations, and machine learning implementations.
+This project is part of the COMP1916 assessment and focuses on data analysis, visualization, and machine-learning techniques to derive insights from complex datasets. The project includes data preprocessing, exploratory data analysis (EDA), and predictive modeling using various machine learning algorithms.
+
+Key objectives of this project include:
+- Cleaning and preprocessing the dataset for accurate analysis.
+- Performing exploratory data analysis (EDA) using statistical methods and visualizations.
+- Implementing machine learning models to make predictions and extract meaningful patterns.
+- Evaluating model performance using relevant metrics.
+- Presenting findings in a structured, clear, and insightful manner.
 
 ## Setup Instructions
 ### Prerequisites
