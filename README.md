@@ -1,5 +1,7 @@
 # COMP1916: Credit Card Fraud Detection with Machine Learning
 
+The dataset can be accessed through this link:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
 ## Overview
 This repository contains an in-depth analysis and machine learning model selection for detecting fraudulent transactions in credit card data. The project is based on a dataset containing **284,807 transactions**, with only **492 fraudulent cases**, highlighting a severe **class imbalance problem (0.172%)**.
 
