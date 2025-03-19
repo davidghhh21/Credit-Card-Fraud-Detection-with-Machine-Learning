@@ -2,11 +2,6 @@
 ## Project Overview
 This repository contains the Jupyter Notebook for the COMP1916 assessment project. The notebook includes data analysis, visualizations, and machine learning implementations.
 
-## Files in this Repository
-- `COMP 1916 Assessment (1).ipynb` - The main Jupyter Notebook for the project.
-- `.gitignore` - A file specifying which files should be ignored by Git.
-- `README.md` - This documentation file.
-
 ## Setup Instructions
 ### Prerequisites
 Ensure you have the following installed on your system:
